@@ -25,19 +25,14 @@ Requisitos previos
 - Contar con una cuenta en GitHub.
 Parte 1: Configuración inicial
 
-1. Abre la terminal o consola de Git.
-
-2. Configura tu nombre y correo:
+1. habre la consola Git 
+3. Configura tu nombre y correo:
 
 git config --global user.name "TuNombre" git config --global user.email "tuemail@example.com"
 
 3. Verifica la configuración:
 
 git config --list
-
-I
-
-Evidencia: captura de pantalla mostrando la configuración.
 
 Parte 2: Creación del repositorio local
 
